@@ -5,6 +5,7 @@ else:
     b = input("How are you, happy or sad?")
     if b=="happy":
         print("Very well")
+        print("Spend time with family as well")
     else:
         print("Enjoy the day")
 
