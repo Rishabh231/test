@@ -8,5 +8,6 @@ else:
         print("Spend time with family as well")
     else:
         print("Enjoy the day")
+        
 
 
